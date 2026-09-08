@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Shit",
+  "description": "An underwater Flappy Bird replica featuring an animated swimming fish, swaying seaweed obstacles, and rising bubbles with high score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
